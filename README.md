@@ -4,7 +4,7 @@
   <h1>RealLifeGalGame</h1>
   <p>让恋爱游戏真正走进现实。</p>
   <p>
-    <a href="https://drive.google.com/file/d/1s8FLfAOd6z-uRuKdebwoEULcY6Kzh74n/view?usp=sharing">📦 下载项目工程</a>
+    <a href="https://drive.google.com/file/d/1jDRLLT7Ih0bhw6tgVPcXmwyW1cUrFV8P/view?usp=sharing">📦 下载项目工程</a>
     &nbsp;|&nbsp;
     <a href="https://blueprintue.com/blueprint/pztj1pvh/">🧩 查看蓝图示例</a>
     &nbsp;|&nbsp;
@@ -57,7 +57,7 @@
 - Meta Quest Link 连接 PC 调试
 
 ### 安装与运行
-1. 下载项目工程：[📦 Google Drive](https://drive.google.com/file/d/1s8FLfAOd6z-uRuKdebwoEULcY6Kzh74n/view?usp=sharing)  
+1. 下载项目工程：[📦 Google Drive](https://drive.google.com/file/d/1jDRLLT7Ih0bhw6tgVPcXmwyW1cUrFV8P/view?usp=sharing)  
 2. 连接 Quest 3，打开 UE 工程并运行 VR 模式，即可进入 MR 场景。
 
 ## 📦 项目结构
