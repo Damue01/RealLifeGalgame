@@ -45,7 +45,7 @@
 | **引擎源码** | [Oculus-VR/UnrealEngine](https://github.com/Oculus-VR/UnrealEngine) |
 | **目标平台** | Oculus Quest 3 |
 | **主要语言** | C++ / Blueprint |
-| **输入系统** | Enhanced Input (手势+语音) |
+| **输入系统** | 语音 / 手势 / 手柄 |
 | **AI 模块** | 支持主流 AI 接口，动态生成对话分支 |
 
 
